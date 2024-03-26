@@ -1,0 +1,1 @@
+A config file will be generated when running for the first time. This file holds the width and height of your display, as well as your selected display. The primary display is "0", subsequent displays will be "1", "2", etc and will need to be manually edited to change which display the background appears on with a multi-screen setup.
